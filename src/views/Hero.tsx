@@ -1,6 +1,5 @@
 import "@dotlottie/player-component";
 import { motion } from "framer-motion";
-import Nav from "../components/Nav";
 import { useEffect, useState } from "react";
 import { cn } from "../utils";
 
