@@ -13,7 +13,7 @@ const Tokenomics = () => {
       desc: "Buy Tax",
     },
     {
-      title: "10",
+      title: "5",
       desc: "Sell Tax",
     },
   ];
