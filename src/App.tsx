@@ -2,7 +2,7 @@ import Footer from "./components/Footer";
 import Nav from "./components/Nav";
 import About from "./views/About";
 import Hero from "./views/Hero";
-import Roadmap from "./views/Roadmap";
+// import Roadmap from "./views/Roadmap";
 import Tokenomics from "./views/Tokenomics";
 
 const App = () => {
@@ -27,7 +27,7 @@ const App = () => {
           className="absolute bottom-0 left-0 right-0 w-full translate-y-[40%] z-10"
         />
       </div>
-      <Roadmap />
+      {/* <Roadmap /> */}
       <Footer />
     </div>
   );

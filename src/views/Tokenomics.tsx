@@ -4,21 +4,17 @@ import { InView } from "react-intersection-observer";
 const Tokenomics = () => {
   const tokenData = [
     {
-      title: "$1.5T+",
-      desc: "Lorem Ipsum",
+      title: "1Million",
+      desc: "Total Supply",
     },
 
     {
-      title: "160M+",
-      desc: "Lorem Ipsum",
+      title: "5",
+      desc: "Buy Tax",
     },
     {
-      title: "300+",
-      desc: "Lorem Ipsum Dolor",
-    },
-    {
-      title: "4,400+",
-      desc: "Lorem Ipsum",
+      title: "10",
+      desc: "Sell Tax",
     },
   ];
 
@@ -41,8 +37,7 @@ const Tokenomics = () => {
                 tokenomics
               </h1>
               <p className="mt-4 mx-auto md:mx-0">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Every penny from taxes will be used directly in buybacks.
               </p>
 
               <div className="flex gap-10 mt-10 flex-wrap justify-center md:justify-normal">
