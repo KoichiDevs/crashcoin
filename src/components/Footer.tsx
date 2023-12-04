@@ -6,15 +6,15 @@ const Footer = () => {
   const icons = [
     {
       icon: <FaTelegramPlane />,
-      link: "",
+      link: "https://t.me/crashcoineth",
     },
     {
       icon: <RiTwitterXFill />,
-      link: "",
+      link: "https://twitter.com/crashcoinerc",
     },
     {
       icon: <MdEmail />,
-      link: "mailto:contact@capo.com",
+      link: "mailto:contact@crashcoin.com",
     },
   ];
 
