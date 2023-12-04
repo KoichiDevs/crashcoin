@@ -21,10 +21,7 @@ const Nav = () => {
       title: "tokenomics",
       link: "tokenomics",
     },
-    {
-      title: "roadmap",
-      link: "roadmap",
-    },
+
   ];
 
   return (
